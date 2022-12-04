@@ -1,0 +1,15 @@
+/* All styles that are common to the application
+===================================================================== */
+@import "global.css";
+
+/* Styles for individual reusable components
+===================================================================== */
+@import "button.css";
+@import "loader.css";
+@import "paginator.css";
+
+/* Styles for individual reusable pages
+===================================================================== */
+@import "search-page.css";
+@import "search-result.css";
+@import "gallery.css";

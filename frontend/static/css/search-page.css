@@ -1,0 +1,35 @@
+/* Search page
+===================================================================== */
+
+.search__page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.search__form__wrap {
+  margin-bottom: 15px;
+}
+
+.search__field__wrap {
+  width: 500px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.search__field__wrap input#search {
+  width: 100%;
+  height: 40px;
+  padding: 5px 115px 5px 25px;
+  border-radius: 50px;
+  border: 0;
+}
+
+.search__field__wrap button {
+  position: absolute;
+  right: 7px;
+  top: 50%;
+  transform: translateY(-50%);
+}
