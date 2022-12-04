@@ -24,11 +24,13 @@
   height: 100%;
   position: relative;
   min-width: 200px;
+  margin: 0 10px;
 }
 
 .gallery__item img {
   height: 100%;
   width: auto;
+  max-width: 100%;
 }
 
 .gallery__item__header,
