@@ -1,4 +1,4 @@
-# Flick App
+# Flickr App
 
 An app for searching images from flickr and save the images to our local gallery.
 
